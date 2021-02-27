@@ -11,12 +11,13 @@
 - [ ] Development of cloud-based applications 
 - [ ] Development with frameworks in dotnet
 
+<p align="center">
  [website][website] **|** 
  [twitter][twitter] **|** 
  [youtube][youtube] **|** 
  [twitch][twitch] **|** 
  [linkedin][linkedin]
-
+</p>
 
 
 [website]: http://patricbergkvist.com
