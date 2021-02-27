@@ -12,19 +12,13 @@
 - [ ] Development with frameworks in dotnet
 
 <p align="center">
- [website][website] **|** 
- [twitter][twitter] **|** 
- [youtube][youtube] **|** 
- [twitch][twitch] **|** 
- [linkedin][linkedin]
+  <a href="http://patricbergkvist.com">Website</a> |
+  <a href="https://twitter.com/Spuute">Twitter</a> |
+  <a href="https://www.youtube.com/patricbergkvist">YouTuber</a> |
+  <a href="https://twitter.com/Spuute">Twitter</a> |
+  <a href=" https://www.linkedin.com/in/patric-bergkvist-b5823b67/">LinkedIn</a>
 </p>
 
-
-[website]: http://patricbergkvist.com
-[twitter]: https://twitter.com/Spuute
-[youtube]: https://www.youtube.com/patricbergkvist
-[twitch]: https://twitch.tv/Spuute
-[linkedin]: https://www.linkedin.com/in/patric-bergkvist-b5823b67/
 
 <!--
 **Spuute/Spuute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
