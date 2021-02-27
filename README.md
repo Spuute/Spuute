@@ -6,10 +6,10 @@
 - [x] **Programming technique C#**
 - [x] **Databases with SQL**
 - [x] **Webdevelopment Frontend**
-- [ ] **Data access with dotnet**
-- [ ] **Webdevelopment Backend**
-- [ ] **Development of cloud-based applications** 
-- [ ] **Development with frameworks in dotnet**
+- [ ] Data access with dotnet _-(In progress)_
+- [ ] Webdevelopment Backend
+- [ ] Development of cloud-based applications 
+- [ ] Development with frameworks in dotnet
 
 <!--
 **Spuute/Spuute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
