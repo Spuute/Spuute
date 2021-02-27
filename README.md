@@ -14,11 +14,11 @@
 ## Want to talk?
 
 <p align="center">
-  <a href="http://patricbergkvist.com">Website</a> |
-  <a href="https://twitter.com/Spuute">Twitter</a> |
-  <a href="https://www.youtube.com/patricbergkvist">YouTub</a> |
-  <a href="https://twitter.com/Spuute">Twitter</a> |
-  <a href="https://www.linkedin.com/in/patric-bergkvist-b5823b67/">LinkedIn</a>
+  <a href="http://patricbergkvist.com" target="_blank">Website</a> |
+  <a href="https://twitter.com/Spuute" target="_blank">Twitter</a> |
+  <a href="https://www.youtube.com/patricbergkvist" target="_blank">YouTub</a> |
+  <a href="https://twitter.com/Spuute" target="_blank">Twitter</a> |
+  <a href="https://www.linkedin.com/in/patric-bergkvist-b5823b67/" target="_blank">LinkedIn</a>
 </p>
 
 
