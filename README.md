@@ -11,12 +11,14 @@
 - [ ] Development of cloud-based applications 
 - [ ] Development with frameworks in dotnet
 
+## Want to talk?
+
 <p align="center">
   <a href="http://patricbergkvist.com">Website</a> |
   <a href="https://twitter.com/Spuute">Twitter</a> |
-  <a href="https://www.youtube.com/patricbergkvist">YouTuber</a> |
+  <a href="https://www.youtube.com/patricbergkvist">YouTub</a> |
   <a href="https://twitter.com/Spuute">Twitter</a> |
-  <a href=" https://www.linkedin.com/in/patric-bergkvist-b5823b67/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/patric-bergkvist-b5823b67/">LinkedIn</a>
 </p>
 
 
