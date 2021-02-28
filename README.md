@@ -2,8 +2,6 @@
 
 ## I am a .NET Developer student!
 
-![alt text](https://github.com/Spuute/Spuute/blob/main/test.png?raw=true)
-
 
 ### Courses 
 - [x] **Programming technique C#**
