@@ -11,7 +11,7 @@ After 15+ years as a construction painter I finally took the big step to quit my
 - [x] **Webdevelopment Frontend**
 - [x] **Data access with dotnet** 
 - [x] **Webdevelopment Backend**
-- [ ] Development of cloud-based applications _-(In progress)_
+- [x] Development of cloud-based applications 
 - [ ] Development with frameworks in dotnet
 
 ## Want to talk?
