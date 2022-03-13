@@ -12,7 +12,7 @@ After 15+ years as a construction painter I finally took the big step to quit my
 - [x] **Data access with dotnet** 
 - [x] **Webdevelopment Backend**
 - [x] Development of cloud-based applications 
-- [ ] Development with frameworks in dotnet
+- [x] Produce and deliver software
 
 ## Want to talk?
 
